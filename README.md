@@ -15,7 +15,7 @@ Taking what has been learned about Python requests, APIs and JSON traversals to 
 
 Create a Python script to visualize the weather of over 500 cities of varying distances from the equator. 
 
-* **Requirement 1: Create plots to showcase the relationship between weather variables and latitude
+* **Requirement 1:** Create plots to showcase the relationship between weather variables and latitude
 
     * A series of scatter plots were created to showcase the following:
         * Latitude vs. Temperature
@@ -24,7 +24,7 @@ Create a Python script to visualize the weather of over 500 cities of varying di
         * Latitude vs. Wind Speed
 
 
-* **Requirement 2: Compute linear regression for each relationship and separate into Northern Hemisphere and Southern Hemisphere
+* **Requirement 2:** Compute linear regression for each relationship and separate into Northern Hemisphere and Southern Hemisphere
     * A series of scatter plots were created for both the Northern and Southern Hemispheres to showcase the following for each:
         * Latitude vs. Temperature
         * Latitude vs. Humidity
